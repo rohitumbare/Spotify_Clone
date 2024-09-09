@@ -28,8 +28,8 @@ The project captures the distinctive Spotify look and feel, including its color 
 
    <b>🧐 Technical Details : </b>
    
-  HTML : Used for structuring the content, including headings, navigation menus, and section divisions.<br>
-  CSS : Applied for styling the page, including layout, colors, typography, and responsive adjustments.
+  🧩 HTML : Used for structuring the content, including headings, navigation menus, and section divisions.<br>
+ 🎨 CSS : Applied for styling the page, including layout, colors, typography, and responsive adjustments.
 
 <b>🎓 Learning Experience : </b><br>
 
