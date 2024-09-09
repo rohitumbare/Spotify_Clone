@@ -11,13 +11,16 @@ The "Spotify Clone" is a visually accurate replica of the Spotify web interface,
 <b>💡 Key Features : </b><br>
 
 ✅ Styling and Layout: 
-    The project captures the distinctive Spotify look and feel, including its color scheme, typography, and layout.<br> Key elements such as the navigation bar, playlist panels, and album artwork are replicated to provide an authentic visual experience.<br>
+
+The project captures the distinctive Spotify look and feel, including its color scheme, typography, and layout.<br> Key elements such as the navigation bar, playlist panels, and album artwork are replicated to provide an authentic visual experience.<br>
     
 ✅ Interactive Elements: 
-    Although not functional, the design incorporates interactive elements such as buttons, sliders, and navigation links that mimic the behavior of the original Spotify interface.<br>
+
+ Although not functional, the design incorporates interactive elements such as buttons, sliders, and navigation links that mimic the behavior of the original Spotify interface.<br>
     
 ✅ CSS Techniques:
-    Utilized advanced CSS techniques including Flexbox and Grid for layout management, and media queries for responsiveness. The project also demonstrates proficiency in CSS animations and transitions to enhance visual appeal.<br>
+
+ Utilized advanced CSS techniques including Flexbox and Grid for layout management, and media queries for responsiveness. The project also demonstrates proficiency in CSS animations and transitions to enhance visual appeal.<br>
 
 <b>🛠 Technologies Used : </b><br>
 
